@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Quest5",
+            "request": "launch",
+            "mainClass": "ExerciseCap123.Questao5.Quest5",
+            "projectName": "ExerciseJava_11dbad7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest4",
+            "request": "launch",
+            "mainClass": "ExerciseCap123.Quest4",
+            "projectName": "ExerciseJava_11dbad7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Quest1e2e3",
+            "request": "launch",
+            "mainClass": "ExerciseCap123.Quest1e2e3",
+            "projectName": "ExerciseJava_11dbad7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exerc1e2",
+            "request": "launch",
+            "mainClass": "ExerciseCap123.Exerc1e2",
+            "projectName": "ExerciseJava_11dbad7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exerc1",
+            "request": "launch",
+            "mainClass": "ExerciseCap123.Exerc1",
+            "projectName": "ExerciseJava_11dbad7c"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "ExerciseJava_11dbad7c"
+        }
+    ]
+}
